@@ -1,0 +1,279 @@
+Sono un Camionista con ID=0
+   Importatori: [22, 19, 20, 25]
+   Esportatori: [34, 35]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   E mi trovo nella cella 4
+Sono un Camionista con ID=1
+   Importatori: [21, 24, 19, 23]
+   Esportatori: [33, 35]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   E mi trovo nella cella 2
+Sono un Camionista con ID=2
+   Importatori: [19, 21, 26, 24]
+   Esportatori: [33, 35]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   E mi trovo nella cella 7
+Sono un Camionista con ID=3
+   Importatori: [21, 20, 18, 23]
+   Esportatori: [34, 35]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   E mi trovo nella cella 2
+Sono un Camionista con ID=4
+   Importatori: [21, 19, 23, 22]
+   Esportatori: [34, 33]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   E mi trovo nella cella 7
+Sono un Camionista con ID=5
+   Importatori: [18, 24, 21, 20]
+   Esportatori: [33, 34]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   E mi trovo nella cella 6
+
+Sono un Consumatore con ID=6
+   Spacciatore: 40
+   Persone generiche: [42, 45, 46, 43]
+   Sono controllato: False
+   E mi trovo nella cella 3
+Sono un Consumatore con ID=7
+   Spacciatore: 38
+   Persone generiche: [43, 45, 44, 47]
+   Sono controllato: False
+   E mi trovo nella cella 2
+Sono un Consumatore con ID=8
+   Spacciatore: 36
+   Persone generiche: [46, 45, 47, 43]
+   Sono controllato: False
+   E mi trovo nella cella 0
+Sono un Consumatore con ID=9
+   Spacciatore: 39
+   Persone generiche: [43, 47, 42, 44]
+   Sono controllato: False
+   E mi trovo nella cella 2
+Sono un Consumatore con ID=10
+   Spacciatore: 40
+   Persone generiche: [43, 44, 42, 45]
+   Sono controllato: False
+   E mi trovo nella cella 5
+Sono un Consumatore con ID=11
+   Spacciatore: 38
+   Persone generiche: [46, 44, 43, 45]
+   Sono controllato: True
+   E mi trovo nella cella 4
+Sono un Consumatore con ID=12
+   Spacciatore: 37
+   Persone generiche: [43, 44, 46, 42]
+   Sono controllato: True
+   E mi trovo nella cella 7
+Sono un Consumatore con ID=13
+   Spacciatore: 39
+   Persone generiche: [44, 43, 47, 45]
+   Sono controllato: True
+   E mi trovo nella cella 2
+Sono un Consumatore con ID=14
+   Spacciatore: 38
+   Persone generiche: [44, 47, 46, 43]
+   Sono controllato: True
+   E mi trovo nella cella 3
+Sono un Consumatore con ID=15
+   Spacciatore: 41
+   Persone generiche: [45, 44, 46, 43]
+   Sono controllato: True
+   E mi trovo nella cella 2
+Sono un Consumatore con ID=16
+   Spacciatore: 36
+   Persone generiche: [47, 46, 44, 43]
+   Sono controllato: False
+   E mi trovo nella cella 2
+Sono un Consumatore con ID=17
+   Spacciatore: 40
+   Persone generiche: [47, 45, 42, 44]
+   Sono controllato: False
+   E mi trovo nella cella 6
+
+Sono un Esportatore con ID=33
+   Camionisti: [1, 2, 4, 5]
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   E mi trovo nella cella 1
+Sono un Esportatore con ID=34
+   Camionisti: [0, 3, 4, 5]
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   E mi trovo nella cella 4
+Sono un Esportatore con ID=35
+   Camionisti: [0, 1, 2, 3]
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   E mi trovo nella cella 7
+
+Sono un Importatore con ID=18
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Esportatori: [33, 34, 35]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   Spacciatori: [36, 37, 38, 39, 40, 41]
+   Persone generiche: [46, 43, 45, 47]
+   E mi trovo nella cella 7
+Sono un Importatore con ID=19
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Esportatori: [33, 34, 35]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   Spacciatori: [36, 37, 38, 39, 40, 41]
+   Persone generiche: [42, 47, 44, 43]
+   E mi trovo nella cella 6
+Sono un Importatore con ID=20
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Esportatori: [33, 34, 35]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   Spacciatori: [36, 37, 38, 39, 40, 41]
+   Persone generiche: [42, 43, 45, 46]
+   E mi trovo nella cella 7
+Sono un Importatore con ID=21
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Esportatori: [33, 34, 35]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   Spacciatori: [36, 37, 38, 39, 40, 41]
+   Persone generiche: [45, 46, 43, 42]
+   E mi trovo nella cella 6
+Sono un Importatore con ID=22
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Esportatori: [33, 34, 35]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   Spacciatori: [36, 37, 38, 39, 40, 41]
+   Persone generiche: [43, 46, 44, 47]
+   E mi trovo nella cella 4
+Sono un Importatore con ID=23
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Esportatori: [33, 34, 35]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   Spacciatori: [36, 37, 38, 39, 40, 41]
+   Persone generiche: [45, 46, 44, 47]
+   E mi trovo nella cella 4
+Sono un Importatore con ID=24
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Esportatori: [33, 34, 35]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   Spacciatori: [36, 37, 38, 39, 40, 41]
+   Persone generiche: [43, 47, 42, 44]
+   E mi trovo nella cella 7
+Sono un Importatore con ID=25
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Esportatori: [33, 34, 35]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   Spacciatori: [36, 37, 38, 39, 40, 41]
+   Persone generiche: [46, 44, 42, 45]
+   E mi trovo nella cella 6
+Sono un Importatore con ID=26
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Esportatori: [33, 34, 35]
+   Magazzinieri: [27, 28, 29, 30, 31, 32]
+   Spacciatori: [36, 37, 38, 39, 40, 41]
+   Persone generiche: [45, 42, 46, 44]
+   E mi trovo nella cella 1
+
+Sono un Magazziniere con ID=27
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Spacciatori: [36, 40]
+   Persone Generiche: [47, 42, 45, 46]
+   Ho 2 droga tenuta nella cella 4
+   E mi trovo nella cella 5
+Sono un Magazziniere con ID=28
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Spacciatori: [41, 37]
+   Persone Generiche: [47, 43, 45, 46]
+   Ho 0 droga tenuta nella cella 7
+   E mi trovo nella cella 1
+Sono un Magazziniere con ID=29
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Spacciatori: [37, 36]
+   Persone Generiche: [43, 44, 47, 42]
+   Ho 2 droga tenuta nella cella 4
+   E mi trovo nella cella 7
+Sono un Magazziniere con ID=30
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Spacciatori: [39, 40]
+   Persone Generiche: [47, 45, 44, 46]
+   Ho 1 droga tenuta nella cella 7
+   E mi trovo nella cella 6
+Sono un Magazziniere con ID=31
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Spacciatori: [38, 36]
+   Persone Generiche: [46, 45, 44, 47]
+   Ho 1 droga tenuta nella cella 2
+   E mi trovo nella cella 1
+Sono un Magazziniere con ID=32
+   Importatori: [18, 19, 20, 21, 22, 23, 24, 25, 26]
+   Spacciatori: [40, 37]
+   Persone Generiche: [44, 43, 42, 46]
+   Ho 2 droga tenuta nella cella 1
+   E mi trovo nella cella 7
+
+Sono una Persona Generica con ID=42
+   Importatori: [19, 20, 21, 24, 25, 26]
+   Spacciatori: [36, 37, 38, 39, 40, 41]
+   Magazzinieri: [27, 29, 32]
+   Consumatori Controllati: [12]
+   E mi trovo nella cella 2
+Sono una Persona Generica con ID=43
+   Importatori: [18, 19, 20, 21, 22, 24]
+   Spacciatori: [36, 40, 41]
+   Magazzinieri: [28, 29, 32]
+   Consumatori Controllati: [11, 12, 13, 14, 15]
+   E mi trovo nella cella 7
+Sono una Persona Generica con ID=44
+   Importatori: [19, 22, 23, 24, 25, 26]
+   Spacciatori: [37, 41]
+   Magazzinieri: [29, 30, 31, 32]
+   Consumatori Controllati: [11, 12, 13, 14, 15]
+   E mi trovo nella cella 5
+Sono una Persona Generica con ID=45
+   Importatori: [18, 20, 21, 23, 25, 26]
+   Spacciatori: [36, 37, 38, 39, 40]
+   Magazzinieri: [27, 28, 30, 31]
+   Consumatori Controllati: [11, 13, 15]
+   E mi trovo nella cella 3
+Sono una Persona Generica con ID=46
+   Importatori: [18, 20, 21, 22, 23, 25, 26]
+   Spacciatori: [38, 39, 40]
+   Magazzinieri: [27, 28, 30, 31, 32]
+   Consumatori Controllati: [11, 12, 14, 15]
+   E mi trovo nella cella 4
+Sono una Persona Generica con ID=47
+   Importatori: [18, 19, 22, 23, 24]
+   Spacciatori: [36, 37, 38, 39, 41]
+   Magazzinieri: [27, 28, 29, 30, 31]
+   Consumatori Controllati: [13, 14]
+   E mi trovo nella cella 7
+
+Sono uno Spacciatore con ID=36
+   Magazziniere: -1
+   Consumatori: [8, 16]
+   Persone: [43, 47, 42, 45]
+   Ho 1 di droga
+   E mi trovo nella cella 5
+Sono uno Spacciatore con ID=37
+   Magazziniere: -1
+   Consumatori: [12]
+   Persone: [47, 42, 44, 45]
+   Ho 2 di droga
+   E mi trovo nella cella 2
+Sono uno Spacciatore con ID=38
+   Magazziniere: -1
+   Consumatori: [7, 11, 14]
+   Persone: [45, 46, 47, 42]
+   Ho 3 di droga
+   E mi trovo nella cella 7
+Sono uno Spacciatore con ID=39
+   Magazziniere: -1
+   Consumatori: [9, 13]
+   Persone: [46, 45, 42, 47]
+   Ho 2 di droga
+   E mi trovo nella cella 3
+Sono uno Spacciatore con ID=40
+   Magazziniere: -1
+   Consumatori: [6, 10, 17]
+   Persone: [46, 42, 43, 45]
+   Ho 3 di droga
+   E mi trovo nella cella 3
+Sono uno Spacciatore con ID=41
+   Magazziniere: -1
+   Consumatori: [15]
+   Persone: [44, 43, 47, 42]
+   Ho 2 di droga
+   E mi trovo nella cella 4
